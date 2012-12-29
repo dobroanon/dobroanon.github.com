@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://dobroanon.github.com/atom.xml" rel="self"/>
+  <link href="http://dobroanon.github.com/"/>
+  <updated>2012-12-29T11:10:46+03:00</updated>
+  <id>http://dobroanon.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Holidays]]></title>
+    <link href="http://dobroanon.github.com/blog/2012/12/27/happy-holidays/"/>
+    <updated>2012-12-27T16:08:00+03:00</updated>
+    <id>http://dobroanon.github.com/blog/2012/12/27/happy-holidays</id>
+    <content type="html"><![CDATA[<p>And Happy New Year!</p>
+]]></content>
+  </entry>
+  
+</feed>
